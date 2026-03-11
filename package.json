@@ -1,0 +1,12 @@
+{
+  "name": "prospect-signal-api",
+  "version": "1.0.0",
+  "description": "ProspectSignal AI proxy — forwards requests to Anthropic API with CORS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
